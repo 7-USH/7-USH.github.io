@@ -53181,7 +53181,7 @@ A.Gk.prototype={
 K(a){var s=null
 return A.Bh(B.aE,new A.uw(new A.rL(new A.ZY(this),s),B.ac,s),B.p,B.eo,0,s,s,s,s,B.bV)},
 yN(a,b,c){var s=this
-return new A.hZ(a,null,null,A.a50(A.a([s.l2(c,"https://github.com/7-USH","Gihtub"),s.l2(c,"https://www.linkedin.com/in/tushar-mali-554815226/","Linkedin"),s.l2(c,"https://twitter.com","Twitter"),s.l2(c,"https://www.facebook.com","Facebook"),s.l2(c,"https://www.instagram.com","Instagram")],t.p),B.Jk,b,0,20),null)},
+return new A.hZ(a,null,null,A.a50(A.a([s.l2(c,"https://github.com/7-USH","Github"),s.l2(c,"https://www.linkedin.com/in/tushar-mali-554815226/","Linkedin"),s.l2(c,"https://twitter.com","Twitter"),s.l2(c,"https://www.facebook.com","Facebook"),s.l2(c,"https://www.instagram.com","Instagram")],t.p),B.Jk,b,0,20),null)},
 L7(){return this.yN(B.kr,B.aJ,3)},
 l2(a,b,c){var s=null
 return new A.jS(a,A.a4d(!1,!0,new A.rt(c,s),s,!0,s,s,s,s,s,s,s,s,s,new A.ZX(b,c),s,s,s,s,s),s)},
@@ -53194,7 +53194,7 @@ a.F(t.w).toString
 $.pY()
 s=$.Uj.bv()
 $.pY().toString
-r=A.ec(q,A.cd(A.a([new A.jS(3,A.dK("in flutter",A.dO(B.u,B.dX,q,5,q,B.o),q),q),new A.jS(3,A.dK(" \u2764 ",A.dO(B.j,B.h,q,5,q,B.o),q),q),new A.jS(3,A.dK("Made with",A.dO(B.u,B.dX,q,5,q,B.o),q),q)],o),B.P,B.D,B.b3),B.p,B.ep,q,q,q,q,q,B.lg,q,q,q)
+r=A.ec(q,A.cd(A.a([new A.jS(3,A.dK("in flutter",A.dO(B.u,B.dX,q,5,q,B.o),q),q),new A.jS(3,A.dK(" \ud83d\udda4 ",A.dO(B.j,B.h,q,5,q,B.o),q),q),new A.jS(3,A.dK("Made with",A.dO(B.u,B.dX,q,5,q,B.o),q),q)],o),B.P,B.D,B.b3),B.p,B.ep,q,q,q,q,q,B.lg,q,q,q)
 m=m.d?B.c5:m.L7()
 return A.dc(B.V,A.a([n,l,new A.bd(new A.aB(40*(s/1080),0,0,50),new A.hZ(B.tV,q,q,r,q),q),m],o),B.T)},
 $S:337}
